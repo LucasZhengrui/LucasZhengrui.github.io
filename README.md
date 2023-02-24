@@ -20,4 +20,4 @@
 >
 > Changed "Lucas._" button to 'mailto' in order to open email directly at 13:40 UTC, 24th Feb, 2023
 > 
-> Added 2 buttons and cancel a button, relocate TruckersMP and Aurora sections, and update Lucas section at 23:30 UTC, 24th Feb, 2023
+> Added 2 buttons and cancelled a button, relocated TruckersMP and Aurora sections, and updated Lucas section at 23:30 UTC, 24th Feb, 2023
