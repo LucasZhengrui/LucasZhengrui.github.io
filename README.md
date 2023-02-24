@@ -15,3 +15,5 @@
 > Reuploaded old files to the new repository after deleting the old one due to mistake at 9:00 UTC, 23rd Feb, 2023
 >
 > Relocated two buttons, added TruckersMP and Aurora Discord guild links, changed some wrong words, added "wave" image in the readme interface at 14:30 UTC, 23 rd Feb, 2023
+> 
+> Updated the description of repository and some errors in html files at 10:40 UTC, 24th Feb, 2023
