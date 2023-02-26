@@ -6,6 +6,7 @@
 
 ### **Develop Log**
 
+#### **Website 1.0**
 > Created at 1:00 UTC, 22nd Feb, 2023
 > 
 > Connected with the local folder at 16:00 UTC, 22nd Feb, 2023
@@ -21,3 +22,7 @@
 > Changed "Lucas._" button to 'mailto' in order to open email directly at 13:40 UTC, 24th Feb, 2023
 > 
 > Added 2 buttons and cancelled a button, relocated TruckersMP and Aurora sections, and updated Lucas section at 23:30 UTC, 24th Feb, 2023
+
+#### **Webiste 2.0**
+
+> Added 2 extra pages(Social media and tmpaurora). Added all of my social media link to the social media page. Relocated the TruckersMP and Aurora Relating buttons to the tmpaurora page. Fixed the image in the lowest place of the main page to "center". Added buttons to guide to user to different page.

@@ -95,3 +95,15 @@
 .personallink{
     text-align: center;
 }
+
+.youtube{
+    display:flex;
+    justify-content:center;
+    position: static;
+}
+
+.truck{
+    display:flex;
+    justify-content:center;
+    position: static;
+}
