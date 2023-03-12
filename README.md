@@ -25,4 +25,6 @@
 
 #### **Webiste 2.0**
 
-> Added 2 extra pages(Social media and tmpaurora). Added all of my social media link to the social media page. Relocated the TruckersMP and Aurora Relating buttons to the tmpaurora page. Fixed the image in the lowest place of the main page to "center". Added buttons to guide to user to different page(26/02/2023 22:50 UTC).
+> Added 2 extra pages(Social media and tmpaurora). Added all of my social media link to the social media page. Relocated the TruckersMP and Aurora Relating buttons to the tmpaurora page. Fixed the image in the lowest place of the main page to "center". Added buttons to guide to user to different page at 22:50 UTC 26th Feb, 2023
+
+> Added spin icon for Lucas Avatar in every page at 03:09 UTC, 12nd March, 2023
