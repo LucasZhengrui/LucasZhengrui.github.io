@@ -30,3 +30,5 @@
 > Added spin icon for Lucas Avatar in every page at 03:09 UTC, 12nd March, 2023
 > 
 > Added one page for my Assessments in the University of Aberdeen at 02:47 UTC+1, 1st May, 2023
+>
+> Added a button to redirect to my new forum website https://lucas-forum-034fab912c50.herokuapp.com/ at 10:50 PM UTC+1, 23rd September, 2023
